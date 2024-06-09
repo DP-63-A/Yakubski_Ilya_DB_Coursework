@@ -1,0 +1,6 @@
+OrderID,Username,OrderDate,DeliveryDate,DeliveryAddress,PaymentMethod,OrderStatus
+1,Kei1,2023-02-16 00:30:00,2023-02-20 15:00:00,917 Iijima,Credit card,Processing
+2,0m0ch1kaer1,2023-04-15 14:20:00,2023-04-19 12:00:00,1217 Ogimachi,PayPal,Shipped
+3,oNsOnO,2023-07-27 12:55:00,2023-07-31 13:00:00,3063 Ogimachi,Cash,Ready for delivery
+4,h0h0h0,2023-08-25 23:07:00,2023-08-29 14:00:00,542 Ijima,Credit card,Shipped
+5,nipaaa,2023-10-10 07:40:00,2023-10-14 13:00:00,111 Hatotani,Cash,Processing

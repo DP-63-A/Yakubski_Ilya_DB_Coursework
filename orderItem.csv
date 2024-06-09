@@ -1,0 +1,6 @@
+OrderItemID,OrderID,ProductName,Quantity,UnitPrice
+1,1,Recycled glass bottle,2,5.99
+2,2,Biodegradable paper bag,5,1.75
+3,3,Reusable cat toilet filler,3,19.89
+4,4,Refillable teabags,11,5.49
+5,5,Cardboard boxes,5000,3.69

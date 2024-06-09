@@ -1,0 +1,6 @@
+ProductName,SubCategoryName,ProducerName,Description,Price,StockQuantity,IsAvailable
+Recycled glass bottle,Glass bottles,NewCycle,100% recycled glass,5.99,100,true
+Biodegradable paper bag,Paper and cardboard,NewCycle,Made from recycled paper,1.75,200,true
+Reusable cat toilet filler,For everyday life,Refillco,Some kind of innovative technology,19.89,0,false
+Refillable teabags,For everyday life,Refillco,Another innovative technology,5.49,0,false
+Cardboard boxes,Paper and cardboard,Refillco,Made from recycled material,3.69,5000,true
