@@ -1,0 +1,13 @@
+Author - Ilya Yakubski
+Coursework thematic - Shop of eco-friendly packages and other items (E-commerce app)
+
+Files:
+- 1.1_ER-diagram_and_description contains entity-relationship diagram for the shop. An explanation of relations between tables is present on the image alongside with the diagram itself.
+- 1.2_OLTP_script file contains script for deploying a database of the shop.
+- .csv files (8 items) are files with data for the database.
+- 1.4-.csv_to_OLTP is a script file which purpose is to load data from .csv files to the database.
+
+- 2.1_scheme depicts DWH scheme and contains an explanation of it.
+- 2.1_OLAP_script is a script file created to deploy dimensional and fact tables.
+- 2.2_ETL_script is here to get data from OLTP database and load it into OLAP database.
+- 2.3_PBI_report is a file with report created with PowerBI.
